@@ -4,8 +4,8 @@ There i need to make a website for grown up our bussiness just for help peoples 
 <html lang="hi">
 <head>
 <meta charset="utf-8" />
-<meta name="viewport" content="width=device-width,initial-scale=1" />
-<title>Kendra-Krishna Cyber Cafe & Jan Seva Kendra</title>
+<meta name="viewport" content="width=device-width,initial-scale=1"  -
+  Krishna Cyber Cafe & Jan Seva Kendra
 <script src="https://cdn.tailwindcss.com"></script>
 <script>
   tailwind.config = { theme: { extend: { fontFamily: { sans:['Inter','sans-serif'] } } } };
